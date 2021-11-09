@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\DepartmentCRUD\DepartmentCRUD\bin\Debug\netcoreapp3.1\DepartmentCRUD.exe
+C:\Users\User\source\repos\DepartmentCRUD\DepartmentCRUD\bin\Debug\netcoreapp3.1\DepartmentCRUD.deps.json
+C:\Users\User\source\repos\DepartmentCRUD\DepartmentCRUD\bin\Debug\netcoreapp3.1\DepartmentCRUD.runtimeconfig.json
+C:\Users\User\source\repos\DepartmentCRUD\DepartmentCRUD\bin\Debug\netcoreapp3.1\DepartmentCRUD.runtimeconfig.dev.json
+C:\Users\User\source\repos\DepartmentCRUD\DepartmentCRUD\bin\Debug\netcoreapp3.1\DepartmentCRUD.dll
+C:\Users\User\source\repos\DepartmentCRUD\DepartmentCRUD\bin\Debug\netcoreapp3.1\DepartmentCRUD.pdb
+C:\Users\User\source\repos\DepartmentCRUD\DepartmentCRUD\obj\Debug\netcoreapp3.1\DepartmentCRUD.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\DepartmentCRUD\DepartmentCRUD\obj\Debug\netcoreapp3.1\DepartmentCRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\DepartmentCRUD\DepartmentCRUD\obj\Debug\netcoreapp3.1\DepartmentCRUD.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DepartmentCRUD\DepartmentCRUD\obj\Debug\netcoreapp3.1\DepartmentCRUD.AssemblyInfo.cs
+C:\Users\User\source\repos\DepartmentCRUD\DepartmentCRUD\obj\Debug\netcoreapp3.1\DepartmentCRUD.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DepartmentCRUD\DepartmentCRUD\obj\Debug\netcoreapp3.1\DepartmentCRUD.dll
+C:\Users\User\source\repos\DepartmentCRUD\DepartmentCRUD\obj\Debug\netcoreapp3.1\DepartmentCRUD.pdb
+C:\Users\User\source\repos\DepartmentCRUD\DepartmentCRUD\obj\Debug\netcoreapp3.1\DepartmentCRUD.genruntimeconfig.cache
